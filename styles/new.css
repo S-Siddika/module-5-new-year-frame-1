@@ -1,0 +1,16 @@
+/* common shared styles  */
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* header related styles */
+.banner-content-title {
+    color: #151414;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
