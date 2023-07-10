@@ -11,20 +11,20 @@ body {
     background: url('../images/banner/banner1.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: bottom left;
+    background-position: bottom center;
     margin: 0;
 }
 
 .banner-container {
-    /* display: flex; */
-    /* flex-direction: column; */
-    /* align-items: right; */
-    /* justify-content: space-between; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-around;
 }
 
 .banner-content-title {
     color: #151414;
-    /* text-align: right; */
+    text-align: right;
     font-size: 65px;
     font-weight: 700;
 }
