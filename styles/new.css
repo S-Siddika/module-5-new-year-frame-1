@@ -52,3 +52,28 @@ body {
     font-weight: 600;
     padding: 20px 25px;
 }
+
+/* failures section starts here */
+
+.failures-person-background{
+    border-radius: 527.929px;
+    background: rgba(241, 91, 34, 0.20);
+    /* position:initial; */
+}
+
+.failures-person-image{
+    /* position: absolute; */
+}
+
+.failures-title {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.failures-description {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
