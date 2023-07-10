@@ -11,8 +11,8 @@ body {
     background: url('../images/banner/banner1.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: left;
-    margin-top: 0px;
+    /* background-position: left; */
+    margin: 0px;
 }
 
 .banner-container {
@@ -132,6 +132,9 @@ ul>li {
 
 .plans-container {
     text-align: center;
+    margin-top: 130px;
+    margin-left: 230px;
+    margin-right: 230px;
 }
 
 .plans-title {
@@ -158,3 +161,28 @@ ul>li {
     font-size: 25px;
     font-weight: 500;
 }
+
+/* positive mindset banner section related styles */
+
+.positive-container {
+    position: relative;
+    margin: 0 230px;
+
+}
+
+
+.positive-image-gradient {
+    width: 1140px;
+    height: 300px;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%);
+    position: relative;
+
+}
+
+.positive-image-watch {
+    position: absolute;
+    top: 0px;
+}
+
+/* YAAAYY..... :).....completed the positive mindset banner*/
